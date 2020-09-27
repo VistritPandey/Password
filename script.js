@@ -97,3 +97,5 @@ copyEl.addEventListener("click", () => {
     textarea.remove();
     alert("Copied!");
 });
+
+//As it is converted from Python, there may have some unseen bugs
